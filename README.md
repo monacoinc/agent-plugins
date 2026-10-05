@@ -1,6 +1,6 @@
 # Monaco
 
-[Monaco](https://monaco.com) is an AI-driven sales platform. This plugin connects Grok to your
+[Monaco](https://monaco.com) is an AI-driven sales platform. This plugin connects to your
 Monaco workspace through the [Monaco MCP server](https://docs.monaco.com/mcp/overview), so you can
 search, update, and act on your CRM data in natural language — no custom integration required.
 
